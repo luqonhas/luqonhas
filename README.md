@@ -1,4 +1,4 @@
-My name is Lucas Apolinário, i'm from Brazil. 🇧🇷
+My name is Lucas Apolinário, i'm from Brazil. 🎉
 
 I am a student of the technical course Systems Development at Escola SENAI de Informática, currently living and studying in São Paulo. 🤹‍♂️
 
