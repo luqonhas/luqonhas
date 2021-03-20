@@ -1,5 +1,3 @@
-# Hey
-
 My name is Lucas Apolinário, i'm from Brazil. 👨‍💻
 
 I am a student of the technical course Systems Development at Escola SENAI de Informática, currently living and studying in São Paulo. 💻
@@ -8,7 +6,7 @@ Always seeking knowledge in various subjects. ⚠️
 
 # Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luqonhas/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luqonhas/)
 ![Gmail Badge](https://img.shields.io/badge/-apolinariodev@gmail.com-CC2927?style=flat-square&logo=Gmail&logoColor=white)
 
 ## Programming languages
