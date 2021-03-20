@@ -6,7 +6,7 @@ Always seeking knowledge in various subjects. ⚠️
 
 # Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/luqonhas-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luqonhas/)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Apolinário-%231572B6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luqonhas/)](https://www.linkedin.com/in/luqonhas/)
 ![Gmail Badge](https://img.shields.io/badge/-apolinariodev@gmail.com-CC2927?style=flat-square&logo=Gmail&logoColor=white)
 
 ## Programming languages
