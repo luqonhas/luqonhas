@@ -1,8 +1,8 @@
-My name is Lucas Apolinário, i'm from Brazil. 👨‍💻
+My name is Lucas Apolinário, i'm from Brazil. 🇧🇷
 
-I am a student of the technical course Systems Development at Escola SENAI de Informática, currently living and studying in São Paulo. 💻
+I am a student of the technical course Systems Development at Escola SENAI de Informática, currently living and studying in São Paulo. 🤹‍♂️
 
-Always seeking knowledge in various subjects. ⚠️
+Always seeking knowledge in various subjects. 💡
 
 ### Contact:
 
