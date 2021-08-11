@@ -1,6 +1,6 @@
-Meu nome é Lucas Apolinário! 🎉
+Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px">
 
-Sou aluno do curso técnico de Desenvolvimento de Sistemas da Escola SENAI de Informática, atualmente morando e estudando em São Paulo. 🤹‍♂️
+Estou cursando técnico de Desenvolvimento de Sistemas da Escola SENAI de Informática, atualmente morando e estudando em São Paulo. 🤹‍♂️
 
 ### Sobre meus conhecimentos na área de desenvolvimento de sistemas:
 
