@@ -1,6 +1,6 @@
 ### Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">
 
-###### Estou cursando técnico de Desenvolvimento de Sistemas da Escola SENAI de Informática, atualmente morando e estudando em São Paulo. 🤹‍♂️
+##### Estou cursando técnico de Desenvolvimento de Sistemas da Escola SENAI de Informática, atualmente morando e estudando em São Paulo. 🤹‍♂️
 
 <div>
   <a href="https://github.com/luqonhas">
