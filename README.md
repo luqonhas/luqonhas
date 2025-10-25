@@ -1,7 +1,7 @@
 # <div align="center">Olá, Eu sou o Lucas!</div>
 
 <div align="justify">
-Me chamo Lucas Apolinário e sou um profissional de tecnologia com 20 anos, formado em Análise e Desenvolvimento de Sistemas (ADS) pela Instituição SENAI de Informática e graduado em ADS na UNICID. Tenho paixão por tecnologia desde os 12 anos e estou comprometido em construir uma carreira sólida nesta área.
+Me chamo Lucas Apolinário e sou um profissional de tecnologia com 22 anos, formado em Análise e Desenvolvimento de Sistemas (ADS) pela Instituição SENAI de Informática, graduado em ADS na UNICID e pós graduado em Arquitetura de Sistemas .NET na FIAP. Tenho paixão por tecnologia desde os 12 anos e estou comprometido em construir uma carreira sólida nesta área.
 </div>
 <br>
 <div align="center" style="display: inline_block">
